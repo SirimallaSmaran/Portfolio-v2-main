@@ -28,13 +28,13 @@ export function Footer() {
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
-        <a
+        {/* <a
           href="https://github.com/SirimallaSmaran"
           target="_blank"
           rel="noreferrer"
         >
           <img src={githubIcon} alt="GitHub" />
-        </a>
+        </a> */}
         <a
           href="https://api.whatsapp.com/send/?phone=%2B919848757148&text=Hello+Smaran"
           target="_blank"
