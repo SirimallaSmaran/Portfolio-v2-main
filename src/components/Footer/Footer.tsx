@@ -28,6 +28,7 @@ export function Footer() {
         >
           <img src={linkedin} alt="Linkedin" />
         </a>
+        
         {/* <a
           href="https://github.com/SirimallaSmaran"
           target="_blank"
